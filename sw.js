@@ -1,6 +1,6 @@
 // Keeps both apps working offline. Bump VERSION whenever any app file changes.
-const VERSION = "vdc-2.0.0";
-const FILES = ["./", "./index.html", "./admin.html", "./app.css", "./core.js", "./firebase-config.js",
+const VERSION = "vdc-2.2.0";
+const FILES = ["./", "./index.html", "./admin.html", "./app.css", "./core.js", "./login.js", "./firebase-config.js",
   "./firebase/firebase-app-compat.js", "./firebase/firebase-auth-compat.js", "./firebase/firebase-firestore-compat.js",
   "./manifest.webmanifest", "./admin.webmanifest",
   "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png",

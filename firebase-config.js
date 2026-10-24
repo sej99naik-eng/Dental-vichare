@@ -1,15 +1,10 @@
-// Vichare Dental – connection to your Firebase project.
-// Leave this as null to keep records on each device only.
-// To share records between devices, follow FIREBASE-SETUP.md and paste your project's settings below.
-window.VDC_FIREBASE_CONFIG = null;
-
-/* After setup it will look like this (your own values):
+// Vichare Dental – connection to the clinic's Firebase project (vichare-dental-ce7ce).
+// These values identify the project; the security rules decide who can read or change records.
 window.VDC_FIREBASE_CONFIG = {
-  apiKey: "AIza...",
-  authDomain: "vichare-dental.firebaseapp.com",
-  projectId: "vichare-dental",
-  storageBucket: "vichare-dental.appspot.com",
-  messagingSenderId: "1234567890",
-  appId: "1:1234567890:web:abc123"
+  apiKey: "AIzaSyBGE24joMfRxzqb_r4ul3NvOCZr-BaJI_Q",
+  authDomain: "vichare-dental-ce7ce.firebaseapp.com",
+  projectId: "vichare-dental-ce7ce",
+  storageBucket: "vichare-dental-ce7ce.firebasestorage.app",
+  messagingSenderId: "248540144402",
+  appId: "1:248540144402:web:3c8c8f0dba299fd47449cb"
 };
-*/
